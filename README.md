@@ -1,10 +1,10 @@
-## ScriptTempo: Academic Presentation Timing Assistant
+# ScriptTempo: Academic Presentation Timing Assistant
 
 ScriptTempo is a Python command-line utility designed to help university students and researchers perfect their presentation pacing.
 
 Struggling to fit your pitch into a strict 3-minute limit? ScriptTempo analyzes your raw English script, calculates precise speaking times, evaluates reading difficulty, and automatically structures long sentences into natural breath groups.
 
-✨ Key Features (Technical Highlights)
+## Key Features (Technical Highlights)
 
 This project was developed with a focus on robust software engineering principles:
 
@@ -16,11 +16,12 @@ Automated Cue Sheet Generation: Seamlessly handles File I/O operations to ingest
 
 High Robustness: Built with comprehensive try-except flow control and backed by unittest to gracefully handle edge cases (e.g., infinite recursion traps, missing files).
 
-🚀 Quick Start
+## Quick Start
 
 1. Clone the repository:
 
-git clone [https://github.com/jsdhwfmax/ScriptTempo.git](https://github.com/jsdhwfmax/ScriptTempo.git)
+git clone https://github.com/jsdhwfmax/ScriptTempo
+
 cd ScriptTempo
 
 
@@ -38,7 +39,7 @@ Location and name of txt: example/example_input.txt
 
 (Note: If you enter a filename that doesn't exist, ScriptTempo will intelligently auto-generate a sample text file at that location for demonstration purposes!)
 
-📂 Example
+## Example
 
 To see how ScriptTempo works without running the code, check out the example/ folder in this repository:
 
