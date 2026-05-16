@@ -1,4 +1,4 @@
-🎙️ ScriptTempo: Academic Presentation Timing Assistant
+## ScriptTempo: Academic Presentation Timing Assistant
 
 ScriptTempo is a Python command-line utility designed to help university students and researchers perfect their presentation pacing.
 
