@@ -1,0 +1,127 @@
+============================================================
+ScriptTempo: Academic Presentation Cue Sheet
+============================================================
+
+--- [Paragraph 1] | Time: ~15s | Words: 33 ---
+  > Hi everyone. Let me ask you a question: how many of us have experienced the...
+  > ...sheer panic of seeing the '30 seconds left' sign,
+  > when we are only halfway through our presentation script?
+
+  [!] Pronunciation Alert (Practice these):
+      experienced, presentation
+
+
+--- [Paragraph 2] | Time: ~11s | Words: 24 ---
+  > We’ve all been there. We tend to over-write our scripts,
+  > underestimate the time, and end up rushing through our most important points.
+
+  [!] Pronunciation Alert (Practice these):
+      underestimate
+
+
+--- [Paragraph 3] | Time: ~8s | Words: 18 ---
+  > To solve this,
+  > I built ScriptTempo — a command-line assistant designed to help us perfect our presentation pacing.
+
+  [!] Pronunciation Alert (Practice these):
+      ScriptTempo, presentation
+
+
+--- [Paragraph 4] | Time: ~8s | Words: 18 ---
+  > ScriptTempo is very straightforward to use. You simply feed it a raw .txt file of...
+  > ...your English speech.
+
+  [!] Pronunciation Alert (Practice these):
+      ScriptTempo, straightforward
+
+
+--- [Paragraph 5] | Time: ~13s | Words: 29 ---
+  > Using fundamental File I/O operations,
+  > the program reads your script
+  > and instantly analyzes its structure. It calculates the word count
+  > and estimates the speaking time for each paragraph.
+
+  [!] Pronunciation Alert (Practice these):
+      fundamental, operations, analyzes, calculates, estimates
+
+
+--- [Paragraph 6] | Time: ~22s | Words: 48 ---
+  > But it doesn't stop there. I built a custom algorithm from scratch to evaluate the...
+  > ...reading difficulty by calculating the syllables in every single word. The program flags overly complex...
+  > ...words — like 'unprecedented' or 'considerations' — so you know exactly where you might stumble
+  > and need pronunciation practice.
+
+  [!] Pronunciation Alert (Practice these):
+      difficulty, calculating, unprecedented, considerations, pronunciation
+
+
+--- [Paragraph 7] | Time: ~13s | Words: 29 ---
+  > All of this parsed data is managed systematically using iterators
+  > and stored in multidimensional arrays before being exported into this clean,
+  > formatted cue sheet you see on the screen.
+
+  [!] Pronunciation Alert (Practice these):
+      systematically, iterators, multidimensional
+
+
+--- [Paragraph 8] | Time: ~7s | Words: 15 ---
+  > Now, the feature I'm most proud of is how it handles overly long sentences.
+
+
+--- [Paragraph 9] | Time: ~11s | Words: 24 ---
+  > If you write a 40-word sentence,
+  > you'll likely run out of breath reading it. To fix this,
+  > I implemented a Recursive Algorithm.
+
+  [!] Pronunciation Alert (Practice these):
+      implemented
+
+
+--- [Paragraph 10] | Time: ~23s | Words: 50 ---
+  > My split_for_breath function recursively analyzes long sentences
+  > and intelligently breaks them down into natural 'breath groups' by finding conjunctions like 'and',
+  > 'but',
+  > or punctuation marks. It keeps recursively splitting until every text chunk is comfortable to speak....
+  > ...This transforms a dense academic paper into a highly readable speaker's script.
+
+  [!] Pronunciation Alert (Practice these):
+      split_for_breath, recursively, analyzes, intelligently, conjunctions, punctuation, comfortable, transforms, academic
+
+
+--- [Paragraph 11] | Time: ~14s | Words: 31 ---
+  > Finally,
+  > I wanted to ensure this tool was robust. I implemented comprehensive Exception Handling to gracefully...
+  > ...manage errors—like if a user inputs an empty document or the wrong file path.
+
+  [!] Pronunciation Alert (Practice these):
+      implemented, comprehensive, gracefully
+
+
+--- [Paragraph 12] | Time: ~16s | Words: 35 ---
+  > I also wrote automated Unit Tests using the unittest framework to rigorously verify the accuracy...
+  > ...of my recursive logic
+  > and extreme edge cases. As you can see at the bottom here,
+  > all tests passed perfectly.
+
+  [!] Pronunciation Alert (Practice these):
+      automated, rigorously, accuracy
+
+
+--- [Paragraph 13] | Time: ~10s | Words: 22 ---
+  > With ScriptTempo,
+  > you no longer have to guess your pacing. You can practice effectively,
+  > breathe naturally, and deliver your pitch with confidence.
+
+  [!] Pronunciation Alert (Practice these):
+      ScriptTempo, effectively, naturally, confidence
+
+
+--- [Paragraph 14] | Time: ~1s | Words: 2 ---
+  > Thank you.
+
+
+============================================================
+OVERALL SUMMARY:
+- Total Words: 378
+- Estimated Time: 2 min 52 sec
+============================================================

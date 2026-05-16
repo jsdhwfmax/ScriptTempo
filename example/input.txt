@@ -1,0 +1,27 @@
+Hi everyone. Let me ask you a question: how many of us have experienced the sheer panic of seeing the '30 seconds left' sign, when we are only halfway through our presentation script?
+
+We’ve all been there. We tend to over-write our scripts, underestimate the time, and end up rushing through our most important points.
+
+To solve this, I built ScriptTempo — a command-line assistant designed to help us perfect our presentation pacing.
+
+ScriptTempo is very straightforward to use. You simply feed it a raw .txt file of your English speech.
+
+Using fundamental File I/O operations, the program reads your script and instantly analyzes its structure. It calculates the word count and estimates the speaking time for each paragraph.
+
+But it doesn't stop there. I built a custom algorithm from scratch to evaluate the reading difficulty by calculating the syllables in every single word. The program flags overly complex words — like 'unprecedented' or 'considerations' — so you know exactly where you might stumble and need pronunciation practice.
+
+All of this parsed data is managed systematically using iterators and stored in multidimensional arrays before being exported into this clean, formatted cue sheet you see on the screen.
+
+Now, the feature I'm most proud of is how it handles overly long sentences.
+
+If you write a 40-word sentence, you'll likely run out of breath reading it. To fix this, I implemented a Recursive Algorithm.
+
+My split_for_breath function recursively analyzes long sentences and intelligently breaks them down into natural 'breath groups' by finding conjunctions like 'and', 'but', or punctuation marks. It keeps recursively splitting until every text chunk is comfortable to speak. This transforms a dense academic paper into a highly readable speaker's script.
+
+Finally, I wanted to ensure this tool was robust. I implemented comprehensive Exception Handling to gracefully manage errors—like if a user inputs an empty document or the wrong file path.
+
+I also wrote automated Unit Tests using the unittest framework to rigorously verify the accuracy of my recursive logic and extreme edge cases. As you can see at the bottom here, all tests passed perfectly.
+
+With ScriptTempo, you no longer have to guess your pacing. You can practice effectively, breathe naturally, and deliver your pitch with confidence.
+
+Thank you.
